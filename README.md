@@ -8,4 +8,3 @@ A simple Java program to help you track your expenses. Add expenses with descrip
 - **Input Validation**: Prevents negative or zero amounts.
 - **User-Friendly Menu**: Easy navigation with numbered options.
 
-## How to Run
